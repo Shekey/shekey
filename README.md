@@ -8,5 +8,6 @@ I am a specialized **Software Engineer** based in **Berlin**, focusing on advanc
 
 ### 📬 Get in Touch
 * **Web:** [shekeyweb.com](https://shekeyweb.com/)
+* **Web-Hire:** [shekeyweb.com](https://shekeyweb.com/hire)
 * **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/ajdin-sahinbegovic)
 * **Email:** [ajdin@shekeyweb.com](mailto:ajdin@shekeyweb.com)
